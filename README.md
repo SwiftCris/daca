@@ -1,3 +1,3 @@
-# Ч Плус Плус Форк
-Serbian Programming language "ц плус плус" fork.
-Online at: 
+# Daca 
+Daca, este o limba de programare, scrisa in limba romana. 
+acesta este scrisa in javascript.
