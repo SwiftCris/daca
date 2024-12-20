@@ -1,2 +1,3 @@
-# daca
-daca, o limba de programare in limba romana, facuta in javascript.
+# Ч Плус Плус Форк
+Serbian Programming language "ц плус плус" fork.
+Online at: 
